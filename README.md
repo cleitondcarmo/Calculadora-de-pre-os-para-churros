@@ -2,7 +2,7 @@
     <h1 align="center">
         <p>Calculadora de preços para churros</p>
     </h1>
-    <p>Projeto em Java que calcula preços sugeridos para venda de churros.</p>
+    <h4>Projeto em Java que calcula preços sugeridos para venda de churros.</h4>
 </div>
 
 <div align="center">
