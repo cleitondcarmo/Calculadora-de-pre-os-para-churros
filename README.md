@@ -1,11 +1,13 @@
 <div align="center">
     <h1>
-        <p>Calculadora de preços para churros</p>
+        <p>Sistema que calcula preços para churros</p>
     </h1>
     <h4>
-        <p>Projeto em Java que calcula preços sugeridos para venda de churros.</p>
+        <p>Projeto em Java construído durante a matéria de Programação Orientada a Objetos que calcula preços sugeridos para venda de churros.</p>
     </h4>
 </div>
+
+#
 
 <div align="center">
     <h2><p>Telas</p></h2>
