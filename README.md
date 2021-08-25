@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-    <h2>Telas</h2>
+    <h2><p>Telas</p></h2>
     <h4>Tela inicial</h4>
     <p><img src="https://user-images.githubusercontent.com/81137205/130704280-ca4403f0-5719-4236-b05b-c66f3fc62fa9.jpeg" width="75%"/></p>
     <h4>Tela de churros</h4>
